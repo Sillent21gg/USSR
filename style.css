@@ -98,7 +98,7 @@ p, .history__header, .history__pheader {
 .history {
     width: 100%;
     height: auto;
-    background: url('../img/flag.jpg') no-repeat top;
+    background: url('./img/flag.jpg') no-repeat top;
     background-size: 100% 2110px;
 }
 .history__plot{
