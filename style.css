@@ -107,7 +107,7 @@ p, .history__header, .history__pheader {
     flex-direction: column;
 }
 .history__plot-container{
-    width: 100vw;
+    width: 98vw;
     display: inherit;
     flex-direction: inherit;
     text-align: center;
